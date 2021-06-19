@@ -1,0 +1,60 @@
+/*.mau{
+	color: red;
+}*/
+
+/*h1, p{
+	text-align: right;
+}
+
+#doan2{
+	width: 500px;
+	height: 300px;
+	background: #C62121;
+	border-width: 15px;
+	border-style: dashed;
+	border-color: blue;
+	box-sizing: border-box;
+	border: 20px solid blue;
+	border-radius: 5px 15px 25px 30px;
+	border-image: url("img/113.jpg")
+}*/
+
+table{
+	width: 622px;
+	height: 160px;
+	border-collapse: collapse;
+}
+th, td{
+	border: 1px solid;
+	height: 40px;
+	padding: 7px 10px;
+	/*padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	padding-right: 40px;*/
+}
+a{
+	text-decoration: none;
+	color: #0066cc
+
+}
+#mau1{
+	background-color: #DEEBFB;
+}
+#mau2{
+}
+#mau3{
+	background-color: #BB9EA1;
+}
+#dong1{
+	width: 158px;
+}
+#dong2{
+	width: 227px;
+}
+#dong3{
+	width: 128px;
+}
+#dong4{
+	width: 112px;
+}
